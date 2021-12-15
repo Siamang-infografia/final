@@ -281,17 +281,18 @@
                         <p class="text-center mx-5 normal">El Siamang es el más grande de los gibones, su estatura es de 74 y 89 cm y pesan entre 10 y 12 kilos.</p>
                         <h5 class="text-center my-5">Saco gular</h5>
                         <object class="mx-5" data="cositas/el-grito.svg" alt="siamang cantando" type="image/svg+xml"></object>
-                        <div class="mx-auto px-3 py-2 rounded-pill shadow-sm" style="width: 220px; background: #90c00f;">
+                        <div class="mx-auto px-3 py-2 rounded-pill shadow-sm" style="width: 220px; background: #006633;">
                             <audio id="elAudio">
                                 <source src="cositas/canto.mp3" type="audio/mpeg" />
                                 <source src="cositas/canto.ogg" type="audio/ogg" />
                             </audio>
                             <div class="form-check form-switch text-center">
                                 <input class="form-check-input" type="checkbox" id="elSwitch" />
-                                <label class="form-check-label" for="elSwitch">Escucha al Siamang</label>
+                                <label class="form-check-label" style="color: #ffffff;" for="elSwitch">Escucha al Siamang</label>
                             </div>
                         </div>
                         <p class="my-5">Una de las características más notables es el saco gular que se asemeja a una gran bolsa ubicada en la zona faríngea y que puede crecer casi tan grande como su cabeza. Este saco ayuda a amplificar el canto.</p>
+                        
                         <h5 class="text-center my-5">Manos y pies</h5>
                         <div class="row text-center">
                             <div class="col-sm-6 mb-3">
@@ -314,7 +315,7 @@
                                 <object class="mx-auto w-75" data="cositas/pie-siamang.svg" alt="pie de siamang" type="image/svg+xml"></object>
                                 <p class="mb-4">Pie siamang</p>
                             </div>
-
+                        </div>
                             <p class="text-center mt-4">Tienen pulgares opuestos y el dedo gordo del pie muy separado de los demás, en el pie poseen una membrana interdigital entre dedos II y III (se desconoce su función).</p>
 
                             <h5 class="text-center my-5">Bípedos en tierra</h5>
@@ -348,7 +349,7 @@
                     <div class="row g-0">
                         <div class="col-12">
                             <!--VAMOS A INCLUIR TRES SVG EN UN CARRUSEL-->
-                            <div id="carruselConMapa" class="carousel carousel-dark slide carousel-fade" data-bs-ride="carousel">
+                            <div id="carruselConMapa" class="carousel carousel-dark slide carousel-fade d-none d-md-block" data-bs-ride="carousel">
                                 <div class="carousel-indicators">
                                     <button type="button" data-bs-target="#carruselConMapa" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                                     <button type="button" data-bs-target="#carruselConMapa" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -372,6 +373,10 @@
                         </div>
                     </div>
                 </div>
+                <div class="text-center mb-4">
+                <img src="cositas/braquiacion2.gif" class="d-md-none w-50 mx-auto" alt="braquiacion del siamang" />
+                </div>
+
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto my-5">
@@ -638,8 +643,8 @@
                 addCircleBlur: true,
                 showLabels: true,
                 labelOptions: {
-                    before: "Hábitat natural",
-                    after: "Degradación",
+                    before: "Habitat natural del Siamang",
+                    after: "Incendio originado por el comercio de aceite de palma",
                     onHover: false,
                 },
             };
