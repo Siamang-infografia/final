@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#95C11F;}
+	.st1{fill:#327241;}
+	.st2{fill:#006633;}
+	.st3{fill:none;stroke:#C4DD82;stroke-width:3.4531;stroke-miterlimit:10;stroke-dasharray:3.5794,3.5794;}
+	.st4{fill:#C4DD82;}
+	.st5{fill:none;stroke:#95C11F;stroke-width:3.4531;stroke-miterlimit:10;stroke-dasharray:2.242,2.242;}
+	.st6{fill:none;stroke:#95C11F;stroke-width:3.4531;stroke-miterlimit:10;stroke-dasharray:2.1539,2.1539;}
+	.st7{fill:none;}
+	.st8{fill:#1E1E1C;}
+	.st9{font-family:'Roboto-Regular', sans-serif;}
+	.st10{font-size:30.5453px;}
+	.st11{opacity:0;}
+	.st12{fill:#FFFFFF;}
+	.st13{font-family:'Roboto', sans-serif;}
+	.st14{font-size:41.8122px;}
+
+#valores{
+	opacity:0; transition:all ease 0.25s
+	}
+	svg:hover #valores{opacity:1; transition:all ease 0.25s}
+
+</style>
+<g id="Capa_1_1_">
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st0" d="M389.2,556.7l-231.6-75.2c33.2-102.3,123.9-168.3,231.6-168.3V556.7L389.2,556.7z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st1" d="M389.2,556.7l143.1,197c-108.8,79-261,54.9-340.1-53.9c-47.5-65.2-59.5-141.5-34.6-218.3L389.2,556.7z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st2" d="M389.2,556.7V313.2c134.4,0,243.5,109.1,243.5,243.5c0,80.6-35.1,149.5-100.4,197L389.2,556.7z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polyline class="st3" points="192.3,256.8 192.3,469.3 238.7,469.3 			"/>
+			<g>
+				<ellipse class="st4" cx="238.4" cy="469.3" rx="6.4" ry="6.4"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st5" x1="498.1" y1="297" x2="498.1" y2="511.4"/>
+			<g>
+				
+					<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -157.7041 229.5726)" class="st0" cx="498.2" cy="511.2" rx="6.4" ry="6.4"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st6" x1="310.9" y1="668.8" x2="310.9" y2="851.5"/>
+			<g>
+				
+					<image style="overflow:visible;enable-background:new    ;" width="14" height="14" xlink:href="8A0BF6EBC4064449.png"  transform="matrix(1 0 0 1 304.4433 662)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="leyendas">
+	<g>
+		
+			<rect x="128.1" y="213.8" transform="matrix(0.9999 -1.184441e-02 1.184441e-02 0.9999 -3.2881 3.4893)" class="st7" width="329.7" height="131"/>
+		<text transform="matrix(0.9999 -1.184035e-02 1.184035e-02 0.9999 127.7293 241.9973)" class="st8 st9 st10">Acicalamiento  </text>
+	</g>
+	<g>
+		
+			<rect x="435.5" y="257.8" transform="matrix(0.9999 -1.184441e-02 1.184441e-02 0.9999 -3.1951 6.1502)" class="st7" width="164.3" height="30.1"/>
+		<text transform="matrix(0.9999 -1.184035e-02 1.184035e-02 0.9999 435.6287 284.9911)" class="st8 st9 st10">Descanso</text>
+	</g>
+	<g>
+		
+			<rect x="220.7" y="857.2" transform="matrix(0.9999 -1.184441e-02 1.184441e-02 0.9999 -10.434 3.7679)" class="st7" width="184.4" height="51.2"/>
+		<text transform="matrix(0.9999 -1.184035e-02 1.184035e-02 0.9999 220.8318 884.5565)" class="st8 st9 st10">Alimentación</text>
+	</g>
+</g>
+<g id="valores" class="st11">
+	<g>
+		<text transform="matrix(1 0 0 1 454.5385 556.834)" class="st12 st13 st14">40% </text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 259.7265 656.6445)" class="st12 st13 st14">40% </text>
+	</g>
+	<g>
+		<rect x="255.4" y="443.9" class="st7" width="89.4" height="42.2"/>
+		<text transform="matrix(1 0 0 1 258.31 479.9399)" class="st12 st13 st14">20%</text>
+	</g>
+</g>
+<image style="overflow:visible;enable-background:new    ;" width="1417" height="1848" xlink:href="ClipartKey_773175.webp"  transform="matrix(0.4773 0 0 0.4773 532.3433 -11.5432)">
+</image>
+</svg>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1178.7 472.4" style="enable-background:new 0 0 1178.7 472.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#1E1E1C;}
+	.st2{font-family:'Roboto-Regular', sans-serif;}	
+	.st3{font-size:25px;}
+	.st4{fill:none;stroke:#95C11F;stroke-width:1.2885;stroke-miterlimit:10;}
+	.st5{fill:#006633;}
+	.st6{fill:none;stroke:#AED055;stroke-width:1.2885;stroke-miterlimit:10;}
+	.st7{clip-path:url(#SVGID_2_);}
+	.st8{clip-path:url(#SVGID_4_);}
+	.st9{clip-path:url(#SVGID_6_);}
+	.st10{opacity:0;}
+	.st11{fill:#FFFFFF;}
+	.st12{font-family:'Roboto', sans-serif;}	
+
+#valores{
+	opacity:0; transition:all ease 0.25s
+	}
+	svg:hover #valores {opacity:1; transition:all ease 0.25s}
+
+</style>
+<g id="Capa_1_2_">
+	<g id="Capa_1_1_">
+	</g>
+	<g id="leyendas">
+		<g>
+			
+				<rect x="159.3" y="406.1" transform="matrix(0.9999 -1.184441e-02 1.184441e-02 0.9999 -4.9204 2.5686)" class="st0" width="110.2" height="21.2"/>
+			<text transform="matrix(0.9999 -1.184035e-02 1.184035e-02 0.9999 159.3527 423.4157)" class="st1 st2 st3">Frutas</text>
+		</g>
+		<g>
+			
+				<rect x="547.4" y="406.2" transform="matrix(0.9999 -1.184441e-02 1.184441e-02 0.9999 -4.8966 7.2962)" class="st0" width="132.3" height="21.7"/>
+			<text transform="matrix(0.9999 -1.184035e-02 1.184035e-02 0.9999 547.551 423.6777)" class="st1 st2 st3">Insectos</text>
+		</g>
+		<g>
+			
+				<rect x="910.3" y="406.8" transform="matrix(0.9999 -1.184455e-02 1.184455e-02 0.9999 -4.8761 11.973)" class="st0" width="196.2" height="21.7"/>
+			<text transform="matrix(0.9999 -1.184035e-02 1.184035e-02 0.9999 910.3539 424.5902)" class="st1 st2 st3">Hojas y flores</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st4" d="M200.6,216.3l-99.2,122.5c-67.6-54.8-78.1-154-23.3-221.6c30.7-37.9,73.8-58.4,122.5-58.4V216.3z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st5" d="M200.6,216.3V58.8c87.1,0,157.6,70.5,157.6,157.6S287.7,374,200.6,374c-38.3,0-69.4-11.1-99.2-35.1
+						L200.6,216.3z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st4" d="M586.8,218.9L739,178.1c22.5,84.1-27.4,170.5-111.5,193S457,343.7,434.4,259.6S461.9,89.2,546,66.7
+						c13.4-3.7,26.8-5.4,40.8-5.4V218.9z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st5" d="M586.8,218.9V61.3c73.1,0,133.3,46.2,152.3,116.8L586.8,218.9z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st6" d="M979.3,219l137.9-76.3c42.2,76.1,14.7,172-61.4,214.2s-172,14.7-214.2-61.4s-14.7-172,61.4-214.2
+						c24.4-13.5,48.5-19.8,76.3-19.8L979.3,219L979.3,219z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st5" d="M979.3,219V61.5c59.2,0,109.1,29.4,137.9,81.2L979.3,219z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<defs>
+							<path id="SVGID_1_" d="M200.6,215.6V58.1c87.1,0,157.6,70.5,157.6,157.6s-70.5,157.6-157.6,157.6
+								c-38.3,0-69.4-11.1-99.2-35.1L200.6,215.6z"/>
+						</defs>
+						<clipPath id="SVGID_2_">
+							<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+						</clipPath>
+						<g transform="matrix(1 0 0 1 0 -3.814697e-06)" class="st7">
+							
+								<image style="overflow:visible;enable-background:new    ;" width="500" height="259" xlink:href="frutas.webp"  transform="matrix(1.338 0 0 1.338 -60.946 48.4988)">
+							</image>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<defs>
+							<path id="SVGID_3_" d="M586.4,218.6V60.8c73.2,0,133.5,46.3,152.5,116.9L586.4,218.6z"/>
+						</defs>
+						<clipPath id="SVGID_4_">
+							<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+						</clipPath>
+						<g class="st8">
+							
+								<image style="overflow:visible;enable-background:new    ;" width="955" height="512" xlink:href="insectos.webp"  transform="matrix(0.5423 0 0 0.5423 396.215 42.2457)">
+							</image>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<defs>
+							<path id="SVGID_5_" d="M979.1,218.6V61.1c59.2,0,109.1,29.4,137.9,81.2L979.1,218.6z"/>
+						</defs>
+						<clipPath id="SVGID_6_">
+							<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+						</clipPath>
+						<g class="st9">
+							
+								<image style="overflow:visible;enable-background:new    ;" width="600" height="401" xlink:href="flores.webp"  transform="matrix(0.7248 0 0 0.7248 827.7266 24.1926)">
+							</image>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="circulos_verdes">
+		<circle class="st5" cx="194.4" cy="214.5" r="56.3"/>
+		<circle class="st5" cx="582.3" cy="222.9" r="56.3"/>
+		
+			<ellipse transform="matrix(0.3417 -0.9398 0.9398 0.3417 436.3719 1069.2743)" class="st5" cx="981.5" cy="223.1" rx="56.3" ry="56.3"/>
+	</g>
+</g>
+<g id="valores" class="st10">
+	<g>
+		<rect x="167" y="203.2" class="st0" width="64.2" height="22.5"/>
+		<text transform="matrix(1 0 0 1 173.3525 221.7183)" class="st11 st12 st3">61%</text>
+	</g>
+	<g>
+		<rect x="557.3" y="212.4" class="st0" width="64.2" height="22.5"/>
+		<text transform="matrix(1 0 0 1 563.6411 230.9067)" class="st11 st12 st3">21%</text>
+	</g>
+	<g>
+		<rect x="953.3" y="211.8" class="st0" width="64.2" height="22.5"/>
+		<text transform="matrix(1 0 0 1 959.709 230.3247)" class="st11 st12 st3">18%</text>
+	</g>
+</g>
+</svg>
