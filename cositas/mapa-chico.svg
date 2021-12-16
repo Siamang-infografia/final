@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 675 300" style="enable-background:new 0 0 675 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_3_);}
+	.st1{fill:none;stroke:#1D1D1B;stroke-width:0.5368;stroke-miterlimit:10;}
+	.st2{font-family:'Roboto-Regular', sans-serif;}
+	.st3{font-size:9px;}
+	.st4{opacity:0.61;fill:#296338;enable-background:new    ;}
+	.st5{font-size:12px;}
+</style>
+<g id="Capa_1_2_">
+	<g id="Capa_1_1_">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="4500" height="3000" xlink:href="mapa-siamang.webp"  transform="matrix(0.2256 0 0 0.2256 -167.5998 -172.107)">
+		</image>
+		<g>
+			<g>
+				<g>
+					<g>
+						<defs>
+							<path id="SVGID_1_" d="M611.8,96.5h-59.1c-21.5,0-39-17.4-39-39l0,0c0-21.5,17.4-39,39-39h59.1c21.5,0,39,17.4,39,39l0,0
+								C650.8,79.1,633.3,96.5,611.8,96.5z"/>
+						</defs>
+						<clipPath id="SVGID_3_">
+							<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+						</clipPath>
+						<g transform="matrix(1 0 0 1 0 0)" class="st0">
+							
+								<image style="overflow:visible;enable-background:new    ;" width="1152" height="632" xlink:href="mapa3.webp"  transform="matrix(0.1265 0 0 0.1265 511.1089 16.6186)">
+							</image>
+						</g>
+					</g>
+					<g>
+						<path id="SVGID_2_" class="st1" d="M611.8,96.5h-59.1c-21.5,0-39-17.4-39-39l0,0c0-21.5,17.4-39,39-39h59.1
+							c21.5,0,39,17.4,39,39l0,0C650.8,79.1,633.3,96.5,611.8,96.5z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="zona3_9_">
+			<g id="zona3_10_">
+				<g id="zona1_8_">
+					<g>
+						<g>
+							<text transform="matrix(0.9382 0 0 1 568.4396 88.7451)" class="st2 st3">OCEANÍA</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="zona3_7_">
+			<g id="zona3_8_">
+				<g id="zona1_7_">
+					<g>
+						<g>
+							<text transform="matrix(0.9382 0 0 1 540.0734 64.1841)" class="st2 st3">ÁFRICA</text>
+						</g>
+					</g>
+				</g>
+				<g id="zona1_6_">
+					<g>
+						<g>
+							<text transform="matrix(0.9382 0 0 1 580.1037 41.4219)" class="st2 st3">ASIA</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="zonas">
+		<path class="st4" d="M84.3,89.7C82,90,79.7,89.3,78,87.8c-1.5-1.3-3.2-2.7-4.4-3.2c-2.4-1-6.1-1.7-6.8,0s-0.7,4.4,2,8.5
+			s10.6,11.9,15.7,15.7c5.1,3.7,9.5,9.9,11.9,12.9c2.4,3.1,2.7,7.8,9.2,10.9c6.5,3.1,12.9,12.2,14,18.7s4.1,6.5,8.8,11.9
+			c4.8,5.4,15.7,22.1,17,27.9c1.4,5.8,11.6,18.4,15.7,21.8s5.4,6.5,8.8,9.2s20.8,16.3,24.5,20.4l1.8,2c0.6,0.7,1.7,0.3,1.8-0.7
+			c0-1.6,0.7-4.2,1.9-3.4c3.3,2.3,5.2,2.9,5.8-0.3c0.3-1.4,4.1,2.4,6.5,3.4c1.6,0.7,2.5-0.4,3-1.2c0.3-0.4,0.2-1-0.2-1.3
+			c-4.2-3.4-29.1-23.9-37.8-33.5c-9.5-10.6-44.2-55.1-48.7-63.3c-4.4-8.2-10.6-22.5-16.7-29.3c-4.6-5.2-15.7-17.3-20.7-22.9
+			c-1.6-1.8-4.1-2.7-6.5-2.3H84.3z"/>
+		<path class="st4" d="M152.2,110.9c0.7,1.5,4.1,4.9,1.7,6.5c-2.3,1.5,9.9,8.5,12.3,9.9c2.8,1.7,13.3-2.2,14.2-4
+			c1.4-2.8-2.9-4.3-2.9-6.9s1.4-7.3,1-9.7c-0.3-2.4-0.5-4.8-1.2-5.8s-2.9-2-4-1c-1,1-0.7,2.4-3.3,2.9c-2.6,0.5-4.3,0-6.7-1.4
+			C161,100.1,149.3,104.5,152.2,110.9z"/>
+		<path class="st4" d="M165.2,87.7c0,0-4.3,1-4.5,3s1,5.9,0,6.7c-1,0.9,3.1,1.2,3.9,1.8c0.9,0.6,4.2,1.8,5.9,1.5
+			c1.7-0.3,2.5-3.5,4.1-3.7c4.7-0.8,1.4-1.8-1.7-5c-2.6-2.7-2.6-4.2-4.3-4.3C166.9,87.6,165.2,87.7,165.2,87.7z"/>
+	</g>
+	<rect x="601.4" y="57.5" class="st1" width="31.6" height="18.5"/>
+</g>
+<g id="lugares">
+	<g id="zona2_1_">
+		<text transform="matrix(1 0 0 1 186.6782 113.6028)" class="st2 st5">MALASIA</text>
+	</g>
+	<g id="zona2_2_">
+		<text transform="matrix(1 0 0 1 179.4633 83.5712)" class="st2 st5">TAILANDIA</text>
+	</g>
+	<g id="zona2_3_">
+		<text transform="matrix(1 0 0 1 62.8906 174.7678)" class="st2 st5">INDONESIA</text>
+	</g>
+</g>
+</svg>
