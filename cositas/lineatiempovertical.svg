@@ -6,9 +6,9 @@
 	.st0{fill:none;}
 	.st1{enable-background:new    ;}
 	.st2{fill:#1E1E1C;}
-	.st3{font-family:'Roboto-Regular';}
+	.st3{font-family:'Roboto-Regular', sans-serif;}
 	.st4{font-size:9px;}
-	.st5{font-family:'Roboto-Black';}
+	.st5{font-family:'Roboto', sans-serif;}
 	.st6{font-size:10px;}
 	.st7{display:none;}
 	.st8{display:inline;opacity:0.5;fill:none;stroke:#1F9CD8;stroke-width:0.8781;stroke-miterlimit:10;enable-background:new    ;}
@@ -22,6 +22,12 @@
 	.st16{fill:#006633;stroke:#95C11F;stroke-width:6.755;stroke-miterlimit:10;}
 	.st17{fill:none;stroke:#006633;stroke-width:0.8781;stroke-miterlimit:10;stroke-dasharray:1.6196,1.2957;}
 	.st18{fill:none;stroke:#95C11F;stroke-width:0.8781;stroke-miterlimit:10;stroke-dasharray:1.6196,1.2957;}
+
+	#leyenda{
+	opacity:0; transition:all ease 0.25s
+	}
+	svg:hover #leyenda{opacity:1; transition:all ease 0.25s}
+	
 </style>
 <g id="leyenda">
 	<g>
