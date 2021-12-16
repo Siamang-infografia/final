@@ -7,7 +7,7 @@
 	.st1{fill:#1E1E1C;}
 	.st2{font-family:'Roboto-Regular', sans-serif;}	
 	.st3{font-size:25px;}
-	.st4{fill:none;stroke:#95C11F;};stroke-width:1.2885;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#95C11F;stroke-width:1.2885;stroke-miterlimit:10;}
 	.st5{fill:#228f01;}
 	.st6{fill:none;stroke:#AED055;stroke-width:1.2885;stroke-miterlimit:10;}
 	.st7{clip-path:url(#SVGID_2_);}
@@ -103,7 +103,7 @@
 							</clipPath>
 							<g transform="matrix(1 0 0 1 0 -3.814697e-06)" class="st7">
 								
-									<image style="overflow:visible;enable-background:new    ;" width="500" height="259" xlink:href="frutas.jpg"  transform="matrix(1.338 0 0 1.338 -60.946 48.4988)">
+									<image style="overflow:visible;enable-background:new    ;" width="500" height="259" xlink:href="frutas.webp"  transform="matrix(1.338 0 0 1.338 -60.946 48.4988)">
 								</image>
 							</g>
 						</g>
@@ -126,7 +126,7 @@
 							</clipPath>
 							<g class="st8">
 								
-									<image style="overflow:visible;enable-background:new    ;" width="955" height="512" xlink:href="insectos.jpg"  transform="matrix(0.5423 0 0 0.5423 396.215 42.2457)">
+									<image style="overflow:visible;enable-background:new    ;" width="955" height="512" xlink:href="insectos.webp"  transform="matrix(0.5423 0 0 0.5423 396.215 42.2457)">
 								</image>
 							</g>
 						</g>
@@ -149,7 +149,7 @@
 							</clipPath>
 							<g class="st9">
 								
-									<image style="overflow:visible;enable-background:new    ;" width="600" height="401" xlink:href="flores.jpg"  transform="matrix(0.7248 0 0 0.7248 248.6676 452)">
+									<image style="overflow:visible;enable-background:new    ;" width="600" height="401" xlink:href="flores.webp"  transform="matrix(0.7248 0 0 0.7248 248.6676 452)">
 								</image>
 							</g>
 						</g>
