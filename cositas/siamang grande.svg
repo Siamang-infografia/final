@@ -10,9 +10,11 @@
 	.st4{fill:none;}
 	.st5{fill:#1E1E1C;}
 	.st6{font-family:'Roboto-Regular', sans-serif;}
-	.st7{font-size:7.1778px;}
-	.st8{font-size:7.1775px;}
+	.st7{font-size:8px;}
+	.st8{font-size:8px;}
 	.st9{fill:none;stroke:#95C11F;stroke-width:0.7975;stroke-linecap:round;stroke-miterlimit:10;}
+	.st10{font-family:'Roboto', sans-serif;}
+
 </style>
 <image style="overflow:visible;enable-background:new    ;" width="4198" height="3468" xlink:href="5849EF1B688E228.webp"  transform="matrix(0.1037 0 0 0.1037 77.2758 0)">
 </image>
@@ -47,7 +49,7 @@
 	<text transform="matrix(1 0 0 1 397.229 358.8285)" class="st5 st6 st7">Primates sin cola</text>
 </g>
 <g>
-	<text transform="matrix(0.9077 -0.4195 0.4195 0.9077 280.1789 85.4196)" class="st5 st6 st8">Largo de brazo: hasta 1,5 metros</text>
+	<text transform="matrix(0.9077 -0.4195 0.4195 0.9077 280.1789 85.4196)" class="st5 st10 st8">Largo de brazo: hasta 1,5 metros</text>
 	<text transform="matrix(0.9077 -0.4195 0.4195 0.9077 283.7564 93.1592)" class="st5 st6 st8">(doble de tamaño que las piernas) </text>
 </g>
 <g>
