@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="mapa-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 325.9 360.6" style="enable-background:new 0 0 325.9 360.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#95C11F;stroke-width:2.2366;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#006633;}
+	.st3{font-family:'Roboto-Black';}
+	.st4{font-size:20px;}
+	.st5{fill:#1E1E1C;}
+	.st6{font-family:'Roboto-Regular';}
+</style>
+<line class="st0" x1="160.6" y1="175.5" x2="160.6" y2="264.8"/>
+<rect x="31" y="183.5" class="st1" width="261.8" height="28.9"/>
+<line class="st0" x1="160.6" y1="68.4" x2="160.6" y2="144.7"/>
+<rect x="31" y="77.7" class="st1" width="261.8" height="28.9"/>
+<path class="st2" d="M246,71.5H75.2c-7.9,0-14.4-6.5-14.4-14.4v-2c0-7.9,6.5-14.4,14.4-14.4h170.9c7.9,0,14.4,6.5,14.4,14.4v2
+	C260.4,65,253.9,71.5,246,71.5z"/>
+<text transform="matrix(1 0 0 1 74.3011 62.7208)" class="st1 st3 st4">Pérdida de hábitat </text>
+<text transform="matrix(1 0 0 1 30.9994 96.4932)" class="st5 st6 st4">(tala de bosques e incendios)</text>
+<text transform="matrix(1 0 0 1 39.3548 320.4932)" class="st5 st6 st4">(caza para consumo humano)</text>
+<text transform="matrix(1 0 0 1 34.4984 200.4932)" class="st5 st6 st4">(tráfico de animales exóticos)</text>
+<path class="st2" d="M241.1,175.5H85.3c-8.4,0-15.4-6.9-15.4-15.4l0,0c0-8.4,6.9-15.4,15.4-15.4h155.9c8.4,0,15.4,6.9,15.4,15.4l0,0
+	C256.4,168.6,249.6,175.5,241.1,175.5z"/>
+<text transform="matrix(1 0 0 1 106.8138 166.7208)" class="st1 st3 st4">Caza furtiva </text>
+<path class="st2" d="M241.1,295.5H85.3c-8.4,0-15.4-6.9-15.4-15.4l0,0c0-8.4,6.9-15.4,15.4-15.4h155.9c8.4,0,15.4,6.9,15.4,15.4l0,0
+	C256.5,288.6,249.6,295.5,241.1,295.5z"/>
+<text transform="matrix(1 0 0 1 123.1507 286.7217)" class="st1 st3 st4">Poaching </text>
+</svg>
