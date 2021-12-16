@@ -6,140 +6,135 @@
 	.st0{fill:none;}
 	.st1{enable-background:new    ;}
 	.st2{fill:#1E1E1C;}
-	.st3{font-family:'Roboto-Regular', sans-serif;}
-	.st4{font-size:10px;}
-	.st5{font-family:'Roboto', sans-serif;}
-	.st6{display:none;}
-	.st7{display:inline;opacity:0.5;fill:none;stroke:#1F9CD8;stroke-width:0.8781;stroke-miterlimit:10;enable-background:new    ;}
-	.st8{fill:none;stroke:#95C11F;stroke-width:13.6983;stroke-miterlimit:10;}
-	.st9{fill:#95C11F;}
-	.st10{font-size:14px;}
-	.st11{fill:none;stroke:#006633;stroke-width:13.6983;stroke-miterlimit:10;}
-	.st12{fill:#006633;}
-	.st13{fill:#95C11F;stroke:#006633;stroke-width:6.755;stroke-miterlimit:10;}
-	.st14{fill:#006633;stroke:#95C11F;stroke-width:6.755;stroke-miterlimit:10;}
-	.st15{fill:none;stroke:#006633;stroke-width:0.8781;stroke-miterlimit:10;stroke-dasharray:1.6196,1.2957;}
-	.st16{fill:none;stroke:#95C11F;stroke-width:0.8781;stroke-miterlimit:10;stroke-dasharray:1.6196,1.2957;}
-
-	#leyenda{
-	opacity:0; transition:all ease 0.25s
-	}
-	svg:hover #leyenda{opacity:1; transition:all ease 0.25s}
-	
+	.st3{font-family:'Roboto-Regular';}
+	.st4{font-size:9px;}
+	.st5{font-family:'Roboto-Black';}
+	.st6{font-size:10px;}
+	.st7{display:none;}
+	.st8{display:inline;opacity:0.5;fill:none;stroke:#1F9CD8;stroke-width:0.8781;stroke-miterlimit:10;enable-background:new    ;}
+	.st9{fill:none;stroke:#95C11F;stroke-width:13.6983;stroke-miterlimit:10;}
+	.st10{fill:#95C11F;}
+	.st11{font-size:12px;}
+	.st12{fill:none;stroke:#006633;stroke-width:13.6983;stroke-miterlimit:10;}
+	.st13{fill:#006633;}
+	.st14{font-size:14px;}
+	.st15{fill:#95C11F;stroke:#006633;stroke-width:6.755;stroke-miterlimit:10;}
+	.st16{fill:#006633;stroke:#95C11F;stroke-width:6.755;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#006633;stroke-width:0.8781;stroke-miterlimit:10;stroke-dasharray:1.6196,1.2957;}
+	.st18{fill:none;stroke:#95C11F;stroke-width:0.8781;stroke-miterlimit:10;stroke-dasharray:1.6196,1.2957;}
 </style>
 <g id="leyenda">
 	<g>
 		<rect x="522" y="995.4" class="st0" width="159" height="45.4"/>
-		<text transform="matrix(1 0 0 1 521.9521 1003.9547)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">24 de octubre, día internacional del </tspan><tspan x="0" y="12" class="st2 st3 st4">Gibón por la UICN   </tspan></text>
+		<text transform="matrix(1 0 0 1 521.9521 1003.0992)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">24 de octubre, día internacional del </tspan><tspan x="0" y="10.8" class="st2 st3 st4">Gibón por la UICN   </tspan></text>
 	</g>
 	<g>
 		<rect x="221.9" y="49.8" class="st0" width="126.6" height="52.9"/>
-		<text transform="matrix(1 0 0 1 235.2776 58.3547)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Tala ilegal de bosques se </tspan><tspan x="-2.5" y="12" class="st2 st3 st4">comienza a considerar un </tspan><tspan x="35" y="24" class="st2 st3 st4">problema  para la </tspan><tspan x="52.8" y="36" class="st2 st3 st4">biodiversidad    </tspan></text>
+		<text transform="matrix(1 0 0 1 246.5999 57.4992)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Tala ilegal de bosques se </tspan><tspan x="-2.2" y="10.8" class="st2 st3 st4">comienza a considerar un </tspan><tspan x="31.5" y="21.6" class="st2 st3 st4">problema  para la </tspan><tspan x="47.5" y="32.4" class="st2 st3 st4">biodiversidad    </tspan></text>
 	</g>
 	<g>
 		<rect x="215.1" y="320.9" class="st0" width="133.4" height="29.6"/>
-		<text transform="matrix(1 0 0 1 228.6025 329.4509)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Se reportan incendios más </tspan><tspan x="49.2" y="12" class="st2 st3 st4">frecuentemente</tspan></text>
+		<text transform="matrix(1 0 0 1 240.5923 328.5955)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Se reportan incendios más </tspan><tspan x="44.3" y="10.8" class="st2 st3 st4">frecuentemente</tspan></text>
 	</g>
 	<g>
 		<rect x="206.8" y="453.7" class="st0" width="142" height="37.6"/>
-		<text transform="matrix(1 0 0 1 215.8602 462.2364)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Comienzo de construcción de </tspan><tspan x="-8.8" y="12" class="st2 st3 st4">caminos en habitat de Siamang </tspan><tspan x="6.3" y="24" class="st2 st3 st4">y se acrecenta la agricultura    </tspan></text>
+		<text transform="matrix(1 0 0 1 229.1541 461.3809)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Comienzo de construcción de </tspan><tspan x="-14.7" y="10.8" class="st2 st3 st4">caminos en habitat de Siamang y </tspan><tspan x="12.4" y="21.6" class="st2 st3 st4">se acrecenta la agricultura    </tspan></text>
 	</g>
 	<g>
 		<rect x="234.3" y="538.3" class="st0" width="114.2" height="30.7"/>
-		<text transform="matrix(1 0 0 1 241.8936 546.8396)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Plantaciones de café se </tspan><tspan x="39" y="12" class="st2 st3 st4">hacen masivas </tspan></text>
+		<text transform="matrix(1 0 0 1 252.5543 545.9841)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Plantaciones de café se </tspan><tspan x="35.1" y="10.8" class="st2 st3 st4">hacen masivas </tspan></text>
 	</g>
 	<g>
 		<rect x="522" y="483.4" class="st0" width="141.6" height="67.7"/>
-		<text transform="matrix(1 0 0 1 521.9521 491.9458)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Se prohíbe el comercio </tspan><tspan x="0" y="12" class="st2 st3 st4">internacional de Siamangs por </tspan><tspan x="0" y="24" class="st2 st3 st4">la convención sobre el </tspan><tspan x="0" y="36" class="st2 st3 st4">Comercio Internacional de </tspan><tspan x="0" y="48" class="st2 st3 st4">Especies Amenazadas (CITES)     </tspan></text>
+		<text transform="matrix(1 0 0 1 521.9521 491.0903)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Se prohíbe el comercio </tspan><tspan x="0" y="10.8" class="st2 st3 st4">internacional de Siamangs por la </tspan><tspan x="0" y="21.6" class="st2 st3 st4">convención sobre el Comercio </tspan><tspan x="0" y="32.4" class="st2 st3 st4">Internacional de Especies </tspan><tspan x="0" y="43.2" class="st2 st3 st4">Amenazadas (CITES)     </tspan></text>
 	</g>
 	<g>
 		<rect x="522" y="806" class="st0" width="159" height="51.9"/>
-		<text transform="matrix(1 0 0 1 521.9521 814.576)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Se declara </tspan><tspan x="49.5" y="0" class="st2 st5 st4"> en peligro de extinción </tspan><tspan x="0" y="12" class="st2 st3 st4">por la Unión Internacional de </tspan><tspan x="0" y="24" class="st2 st3 st4">Conservación de la Naturaleza </tspan><tspan x="0" y="36" class="st2 st3 st4">(UICN)   </tspan><tspan x="37.1" y="36" class="st2 st5 st4"> </tspan></text>
+		<text transform="matrix(1 0 0 1 521.9521 813.7206)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Se declara </tspan><tspan x="44.5" y="0" class="st2 st5 st4"> en peligro de extinción </tspan><tspan x="140.5" y="0" class="st2 st3 st4">por </tspan><tspan x="0" y="10.8" class="st2 st3 st4">la Unión Internacional de Conservación </tspan><tspan x="0" y="21.6" class="st2 st3 st4">de la Naturaleza (UICN)   </tspan><tspan x="101.1" y="21.6" class="st2 st5 st4"> </tspan></text>
 	</g>
 	<g>
-		<rect x="521.9" y="1052.6" class="st0" width="124.9" height="79.3"/>
 		<rect x="521.9" y="1049.6" class="st0" width="156.2" height="89"/>
-		<text transform="matrix(1 0 0 1 521.8694 1058.1674)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">La Unión Europea endurece las </tspan><tspan x="0" y="12" class="st2 st3 st4">regulaciones a las industrias del </tspan><tspan x="0" y="24" class="st2 st3 st4">aceite de palma en Indonesia y </tspan><tspan x="0" y="36" class="st2 st3 st4">Malasia       </tspan></text>
+		<text transform="matrix(1 0 0 1 521.8694 1057.3119)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">La Unión Europea endurece las </tspan><tspan x="0" y="10.8" class="st2 st3 st4">regulaciones a las industrias del </tspan><tspan x="0" y="21.6" class="st2 st3 st4">aceite de palma en Indonesia y </tspan><tspan x="0" y="32.4" class="st2 st3 st4">Malasia       </tspan></text>
 	</g>
 	<g>
 		<rect x="237.7" y="644.8" class="st0" width="110.8" height="39.8"/>
-		<text transform="matrix(1 0 0 1 244.8477 653.3662)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">Extracción de aceite de </tspan><tspan x="-1.1" y="12" class="st2 st3 st4">palma acrecenta la tala </tspan><tspan x="16.3" y="24" class="st2 st3 st4">de bosques nativos    </tspan></text>
+		<text transform="matrix(1 0 0 1 244.8477 653.3662)" class="st1"><tspan x="0" y="0" class="st2 st3 st6">Extracción de aceite de </tspan><tspan x="-1.1" y="12" class="st2 st3 st6">palma acrecenta la tala </tspan><tspan x="16.3" y="24" class="st2 st3 st6">de bosques nativos    </tspan></text>
 	</g>
 </g>
 <g id="GUIAS">
-	<g class="st6">
-		<rect x="960.3" y="-1730.3" class="st7" width="168.9" height="1875.1"/>
-		<rect x="1159.2" y="-1730.3" class="st7" width="168.9" height="1875.1"/>
-		<rect x="1358.4" y="-1730.3" class="st7" width="168.9" height="1875.1"/>
-		<rect x="1557.4" y="-1730.3" class="st7" width="168.9" height="1875.1"/>
-		<rect x="1756.4" y="-1730.3" class="st7" width="168.9" height="1875.1"/>
-		<rect x="1955.5" y="-1730.3" class="st7" width="168.9" height="1875.1"/>
-		<rect x="846.8" y="-1867.4" class="st7" width="1390.9" height="2149.6"/>
-		<line class="st7" x1="1542.3" y1="-1730.3" x2="1542.3" y2="144.8"/>
+	<g class="st7">
+		<rect x="960.3" y="-1730.3" class="st8" width="168.9" height="1875.1"/>
+		<rect x="1159.2" y="-1730.3" class="st8" width="168.9" height="1875.1"/>
+		<rect x="1358.4" y="-1730.3" class="st8" width="168.9" height="1875.1"/>
+		<rect x="1557.4" y="-1730.3" class="st8" width="168.9" height="1875.1"/>
+		<rect x="1756.4" y="-1730.3" class="st8" width="168.9" height="1875.1"/>
+		<rect x="1955.5" y="-1730.3" class="st8" width="168.9" height="1875.1"/>
+		<rect x="846.8" y="-1867.4" class="st8" width="1390.9" height="2149.6"/>
+		<line class="st8" x1="1542.3" y1="-1730.3" x2="1542.3" y2="144.8"/>
 	</g>
 	<g>
 		<g>
-			<line class="st8" x1="455.9" y1="479" x2="455.9" y2="1162.5"/>
+			<line class="st9" x1="455.9" y1="479" x2="455.9" y2="1162.5"/>
 			<g>
-				<polygon class="st9" points="440.1,1158 455.9,1185.2 471.5,1158 				"/>
+				<polygon class="st10" points="440.1,1158 455.9,1185.2 471.5,1158 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 356.6874 60.2109)" class="st2 st5 st10">1980</text>
+		<text transform="matrix(1 0 0 1 356.6874 60.2109)" class="st2 st5 st11">1980</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 356.6874 466.6059)" class="st2 st5 st10">1995</text>
+		<text transform="matrix(1 0 0 1 356.6874 466.6059)" class="st2 st5 st11">1995</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 356.6874 549.4399)" class="st2 st5 st10">1998</text>
+		<text transform="matrix(1 0 0 1 356.6874 549.4399)" class="st2 st5 st11">1998</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 477.7819 816.5746)" class="st2 st5 st10">2008</text>
+		<text transform="matrix(1 0 0 1 477.7819 816.5746)" class="st2 st5 st11">2008</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 403.9982 1208.1635)" class="st2 st5 st10">A la fecha</text>
+		<text transform="matrix(1 0 0 1 403.9982 1208.1635)" class="st2 st5 st11">A la fecha</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 356.6874 332.621)" class="st2 st5 st10">1990</text>
+		<text transform="matrix(1 0 0 1 356.6874 332.621)" class="st2 st5 st11">1990</text>
 	</g>
 	<g>
 		<g>
-			<line class="st11" x1="412.5" y1="45.8" x2="412.5" y2="1162.5"/>
+			<line class="st12" x1="412.5" y1="45.8" x2="412.5" y2="1162.5"/>
 			<g>
-				<polygon class="st12" points="396.9,1158 412.5,1185.2 428.3,1158 				"/>
+				<polygon class="st13" points="396.9,1158 412.5,1185.2 428.3,1158 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 477.3806 1006.5668)" class="st2 st5 st10"> 2015</text>
+		<text transform="matrix(1 0 0 1 477.3806 1006.5668)" class="st2 st5 st11"> 2015</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 477.3815 1060.3998)" class="st2 st5 st10"> 2017</text>
+		<text transform="matrix(1 0 0 1 477.3815 1060.3998)" class="st2 st5 st11"> 2017</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 477.3806 494.3051)" class="st2 st5 st10">1996</text>
+		<text transform="matrix(1 0 0 1 477.3806 494.3051)" class="st2 st5 st14">1996</text>
 	</g>
-	<circle class="st13" cx="412.5" cy="55.1" r="9.5"/>
-	<circle class="st13" cx="412.5" cy="326.9" r="9.5"/>
-	<circle class="st13" cx="412.5" cy="461.8" r="9.5"/>
-	<circle class="st14" cx="455.9" cy="488.5" r="9.5"/>
-	<circle class="st14" cx="455.9" cy="811.6" r="9.5"/>
-	<circle class="st14" cx="455.9" cy="1002.9" r="9.5"/>
-	<circle class="st14" cx="455.9" cy="1057.2" r="9.5"/>
-	<circle class="st13" cx="412.5" cy="544.2" r="9.5"/>
-	<circle class="st13" cx="412.5" cy="651.5" r="9.5"/>
-	<line class="st15" x1="475.4" y1="488.7" x2="456.6" y2="488.7"/>
+	<circle class="st15" cx="412.5" cy="55.1" r="9.5"/>
+	<circle class="st15" cx="412.5" cy="326.9" r="9.5"/>
+	<circle class="st15" cx="412.5" cy="461.8" r="9.5"/>
+	<circle class="st16" cx="455.9" cy="488.5" r="9.5"/>
+	<circle class="st16" cx="455.9" cy="811.6" r="9.5"/>
+	<circle class="st16" cx="455.9" cy="1002.9" r="9.5"/>
+	<circle class="st16" cx="455.9" cy="1057.2" r="9.5"/>
+	<circle class="st15" cx="412.5" cy="544.2" r="9.5"/>
+	<circle class="st15" cx="412.5" cy="651.5" r="9.5"/>
+	<line class="st17" x1="475.4" y1="488.7" x2="456.6" y2="488.7"/>
 	<g>
-		<text transform="matrix(1 0 0 1 356.6874 656.187)" class="st2 st5 st10">2002</text>
+		<text transform="matrix(1 0 0 1 356.6874 656.187)" class="st2 st5 st11">2002</text>
 	</g>
-	<line class="st16" x1="412.2" y1="651.5" x2="393.4" y2="651.5"/>
-	<line class="st15" x1="474.2" y1="1002.9" x2="455.5" y2="1002.9"/>
-	<line class="st15" x1="474.2" y1="811.6" x2="455.5" y2="811.6"/>
-	<line class="st15" x1="474.2" y1="1057.2" x2="455.5" y2="1057.2"/>
-	<line class="st16" x1="413" y1="461.8" x2="394.2" y2="461.8"/>
-	<line class="st16" x1="413" y1="544.2" x2="394.2" y2="544.2"/>
-	<line class="st16" x1="412.5" y1="326.9" x2="393.7" y2="326.9"/>
-	<line class="st16" x1="410.9" y1="55.1" x2="392.1" y2="55.1"/>
+	<line class="st18" x1="412.2" y1="651.5" x2="393.4" y2="651.5"/>
+	<line class="st17" x1="474.2" y1="1002.9" x2="455.5" y2="1002.9"/>
+	<line class="st17" x1="474.2" y1="811.6" x2="455.5" y2="811.6"/>
+	<line class="st17" x1="474.2" y1="1057.2" x2="455.5" y2="1057.2"/>
+	<line class="st18" x1="413" y1="461.8" x2="394.2" y2="461.8"/>
+	<line class="st18" x1="413" y1="544.2" x2="394.2" y2="544.2"/>
+	<line class="st18" x1="412.5" y1="326.9" x2="393.7" y2="326.9"/>
+	<line class="st18" x1="410.9" y1="55.1" x2="392.1" y2="55.1"/>
 </g>
 </svg>
